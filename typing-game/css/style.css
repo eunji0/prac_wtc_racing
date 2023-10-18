@@ -1,0 +1,14 @@
+.button {
+  width: 200px;
+  height: 35px;
+  background-color: blue;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  margin-top: 3rem;
+}
+
+.loading {
+  background: #ccc;
+  cursor: pointer;
+}
